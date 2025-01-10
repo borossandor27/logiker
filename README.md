@@ -1,0 +1,1 @@
+# Órarend plugin WordPress-ben
